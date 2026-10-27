@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hey, I'm Devnath 👋
 
-<!--
-**devnath-tech/devnath-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Self Taught Programmer | Exploring Full Stack Development
 
-Here are some ideas to get you started:
+I'm a self taught programmer currently pursuing a
+Bachelor of Arts through IGNOU.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My programming journey started with Python and grew
+into exploring web technologies and other programming
+languages. I enjoy learning how software works and
+turning what I learn into practical projects.
+
+### 🛠️ Technologies I'm Learning & Exploring
+
+- **Languages:** Python, JavaScript, TypeScript
+- **Web:** HTML, CSS
+- **Also exploring:** Go, Rust, C++
+
+### 🌱 What I'm Working Toward
+
+- Strengthening my programming fundamentals
+- Improving my full stack web development skills
+- Building practical projects and documenting my learning
+- Learning from and connecting with other developers
+
+### 🎯 My Goal
+
+To grow as a software developer by consistently
+learning, experimenting, building, and sharing my work.
+
+---
+
+Thanks for visiting my profile!
